@@ -1,4 +1,5 @@
 # Auxiliary Objectives for Video Joint-Embedding Predictive Architectures
+Report : https://tinidrop.com/s/wdiw70lg
 
 A systematic empirical study of auxiliary objectives for V-JEPA, evaluating twelve variants across three benchmarks.
 
